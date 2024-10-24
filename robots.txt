@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://voboxuta.github.io/sitemap/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/HQV/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/dlA/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/cxm/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/oju/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/QJx/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/XVl/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/fGg/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/kIK/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/gHI/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/QSY/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/aor/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/sGH/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/uNR/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/nCW/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/Yci/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/HQy/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/QfI/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/arV/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/eGO/sitemap_index.voboxuta
+Sitemap: https://voboxuta.github.io/Exr/sitemap_index.voboxuta
